@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FizzBuzzTester/FizzBuzzTester.iml" filepath="$PROJECT_DIR$/FizzBuzzTester/FizzBuzzTester.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MobProgramming.iml" filepath="$PROJECT_DIR$/.idea/MobProgramming.iml" />
     </modules>
   </component>
